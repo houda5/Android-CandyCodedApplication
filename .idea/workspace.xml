@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602256070820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed module">
+      <created>1602256325716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602256325716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,10 +189,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Completed module" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="519" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1602250103166">
+    <state x="519" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1602257240815">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="519" y="73" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1602250103166" />
+    <state x="519" y="73" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1602257240815" />
     <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1602256322485">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
