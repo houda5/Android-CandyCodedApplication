@@ -74,6 +74,7 @@ public class DetailActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        createShareIntent();
         return super.onOptionsItemSelected(item);
     }
 
@@ -83,6 +84,7 @@ public class DetailActivity extends AppCompatActivity {
         shareIntent.putExtra(Intent.EXTRA_TEXT,SHARE_DESCRIPTION + mCandyImageUrl + HASHTAG_CANDYCODED);
         startActivity(shareIntent);
     }
+
 
 }
     // ***
